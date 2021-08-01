@@ -1,7 +1,7 @@
 # Clima
 Projeto criado em css, html e javaScript,  que mostra o clima do tempo pela cidade escolhida
 
-![image](https://user-images.githubusercontent.com/30122707/127775984-cf7a4656-0a05-412f-8f2a-dc40135cd2b6.png)
+![image](https://user-images.githubusercontent.com/30122707/127776089-65b00b60-25b0-4b03-b6e9-ea960ded1288.png)
 
 ![image](https://user-images.githubusercontent.com/30122707/127775997-dc2212b4-2eea-479d-8d62-8a98b30fba0b.png)
 
